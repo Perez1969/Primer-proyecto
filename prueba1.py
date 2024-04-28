@@ -12,6 +12,6 @@ miedad = a- b
 # definimos una variable booleana
 imprimir = True
 # si imprimir   , print()
-if imprimir:
+if imprimir:    
     print(x, miedad)
     # salida : el valor de mi edad = a-b
