@@ -8,7 +8,7 @@ x ="el valor de mi edad =a-b es "
 #"a es año actual y b es año de nacimiento"
 a, b =2024, 1969
 #realizamos  una operación  con a y b
-c = a- b
+miedad = a- b
 # definimos una variable booleana
 imprimir = True
 # si imprimir   , print()
