@@ -13,5 +13,5 @@ miedad = a- b
 imprimir = True
 # si imprimir   , print()
 if imprimir:
-    print(x, c)
+    print(x, miedad)
     # salida : el valor de mi edad = a-b
