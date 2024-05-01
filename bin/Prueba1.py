@@ -5,7 +5,3 @@
 #"Aprender a programar es divertido"
 #Cuerpo del programa
 print ('Aprender a programar es divertido')
-# esto es una prueba de git
-
-primer commit
- 

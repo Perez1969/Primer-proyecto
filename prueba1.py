@@ -19,11 +19,14 @@ if imprimir:
 def en_pantalla(frase1, frase2):
  print(frase1, frase2)
 en_pantalla('Me gusta',  'Python')
-             
-
-             
-
-             
+#trabajo con mayúscxulas y minúsculas
+s_texto1 = "HOY SERA UN DIA MAGNIFICO"
+print(s_texto1.lower()) 
+s_texto2 = "vamos a ver cuantas veces aparece la letra a en hoy será un día magnífico"         
+print(s_texto2.count('a'))
+s_texto3 = "comprobamos si hay solo letras en el texto los espacios no cuentan"    
+    
+print(s_texto3.replace("texto","ejemplo"))       
 
 
 
