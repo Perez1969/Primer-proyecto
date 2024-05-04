@@ -19,6 +19,11 @@ if imprimir:
 def en_pantalla(frase1, frase2):
  print(frase1, frase2)
 en_pantalla('Me gusta',  'Python')
+nombre =input( "introduzca su nombre: " ) 
+print("hola," + nombre)
+edad =input("introduzca su edad: ")
+print("mi edad es " + edad)
+    
              
 
              
