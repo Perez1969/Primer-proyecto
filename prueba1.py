@@ -27,6 +27,14 @@ print(s_texto2.count('a'))
 s_texto3 = "comprobamos si hay solo letras en el texto los espacios no cuentan"    
     
 print(s_texto3.replace("texto","ejemplo"))       
+#esto es un comentario
+
+s_texto4 ="esto es una prueba"
+print(s_texto4.upper())
+s_texto5 = "cristina te amo"
+print(s_texto5.upper())
+
+
 
 
 
